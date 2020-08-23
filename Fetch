@@ -1,1 +1,4 @@
 Fetch method 
+
+To get to that data, you have to pass it to .json() first and then you can see it.
+fetch(url).then(response => response.json()).then(data => console.log(data));
