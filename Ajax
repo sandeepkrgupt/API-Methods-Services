@@ -1,1 +1,8 @@
-Ajax call
+Ajax call(Asynchronous javascript and xml) 
+
+Ajax is a standard and web development technique (Ajax (programming)
+
+To make Ajax calls we can use 
+1. Fetch() 
+2.Axios library 
+3.Javascript Async-Await. 
